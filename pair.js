@@ -77,12 +77,12 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "RIKA-XMD=" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*     !!      -   .*\n\n 24   \n     \n     \n\n*�   *\n\n 94766619363\n 94787026652\n\n*�   *\n> https://youtube.com/@cyber_rikado_teach?si=t2e6mNigh95QRrD0\n\n *   *\n> https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f\n\n*   �*`; 
+                        let desc = `*don't share this code with anyone..!!✅use this code to create RIKA-XMD whatsapp ueser bot..🤖\n\n> ❒ 24  HOURS ONLINE NETWORKING`\n> ❒ THE BEST WHSTAPP BOT 👑 \n> ❒ BOT MADE BY SHAMIKA DENUWAN\n\n ° *OWNER NUMBERS🙇🏼‍♂️* \n\n> ❖ 94766619363\n> ❖ 94787026652\n\n *° YT CHANNEL 👑🫦*\n> https://youtube.com/@cyber_rikado_teach?si=t2e6mNigh95QRrD0\n\n◦ *WhatsApp chanel❖ ❯ 🫦*\n> https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f\n\n*POWERD BY SHAMIKA DENUWAN║👑💖**`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " ",
+title: "raka xmd",
 thumbnailUrl: "https://files.catbox.moe/nvitlq.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f",
 mediaType: 1,
@@ -93,12 +93,12 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*     !!      -   .*\n\n 24   \n     \n     \n\n*�   *\n\n 94766619363\n 94787026652\n\n*�   *\n> https://youtube.com/@cyber_rikado_teach?si=t2e6mNigh95QRrD0\n\n *   *\n> https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f\n\n*   �*`;
+                            let desc = `*don't share this code with anyone..!!✅use this code to create RIKA-XMD whatsapp ueser bot..🤖\n\n> ❒ 24  HOURS ONLINE NETWORKING`\n> ❒ THE BEST WHSTAPP BOT 👑 \n> ❒ BOT MADE BY SHAMIKA DENUWAN\n\n ° *OWNER NUMBERS🙇🏼‍♂️* \n\n> ❖ 94766619363\n> ❖ 94787026652\n\n *° YT CHANNEL 👑🫦*\n> https://youtube.com/@cyber_rikado_teach?si=t2e6mNigh95QRrD0\n\n◦ *WhatsApp chanel❖ ❯ 🫦*\n> https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f\n\n*POWERD BY SHAMIKA DENUWAN║👑💖*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " ",
+title: "raka xmd",
 thumbnailUrl: "https://files.catbox.moe/nvitlq.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f",
 mediaType: 2,
